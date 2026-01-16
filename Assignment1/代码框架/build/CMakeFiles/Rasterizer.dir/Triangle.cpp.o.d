@@ -1,7 +1,7 @@
 CMakeFiles/Rasterizer.dir/Triangle.cpp.o: \
- /home/enovo/games101/Assignment1/代码框架/Triangle.cpp \
+ /home/zra_lenovo/games/GAMES101Homework/Assignment1/代码框架/Triangle.cpp \
  /usr/include/stdc-predef.h \
- /home/enovo/games101/Assignment1/代码框架/Triangle.hpp \
+ /home/zra_lenovo/games/GAMES101Homework/Assignment1/代码框架/Triangle.hpp \
  /usr/include/eigen3/Eigen/Eigen /usr/include/eigen3/Eigen/Dense \
  /usr/include/eigen3/Eigen/Core \
  /usr/include/eigen3/Eigen/src/Core/util/DisableStupidWarnings.h \

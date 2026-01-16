@@ -1,4 +1,4 @@
-# Install script for directory: /home/enovo/games101/Assignment1/代码框架
+# Install script for directory: /home/zra_lenovo/games/GAMES101Homework/Assignment1/代码框架
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/enovo/games101/Assignment1/代码框架/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zra_lenovo/games/GAMES101Homework/Assignment1/代码框架/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

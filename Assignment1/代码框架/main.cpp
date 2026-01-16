@@ -100,11 +100,11 @@ Eigen::Matrix4f get_rotation(Vector3f axis, float angle){
     
     Eigen::Matrix4f model = Eigen::Matrix4f::Identity();
 
-    Eigen::Matrix3f I = Eigen::Matrix4f::Identity();
+    Eigen::Matrix4f I = Eigen::Matrix4f::Identity();
 
-    Eigen::Matrix3f M = Eigen::Matrix4f::Identity();
+    Eigen::Matrix4f M = Eigen::Matrix4f::Identity();
 
-    Eigen::Matrix3f Rk = Eigen::Matrix4f::Identity();
+    Eigen::Matrix4f Rk = Eigen::Matrix4f::Identity();
 
     Rk << 0 , -axis[2] , axis[1],
           axis[2] , 0 , -axis[0],
