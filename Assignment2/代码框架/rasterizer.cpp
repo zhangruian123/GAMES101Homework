@@ -145,7 +145,7 @@ void rst::rasterizer::rasterize_triangle(const Triangle& t) {
     A.head<3>(), 
     B.head<3>(), 
     C.head<3>()
-};
+    };
 
     float offsets[4][2]={
         {0.25,0.25},{0.75,0.25},

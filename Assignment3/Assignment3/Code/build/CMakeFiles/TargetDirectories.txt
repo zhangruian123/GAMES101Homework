@@ -1,0 +1,3 @@
+/home/zra_lenovo/games/GAMES101Homework/Assignment3/Assignment3/Code/build/CMakeFiles/Rasterizer.dir
+/home/zra_lenovo/games/GAMES101Homework/Assignment3/Assignment3/Code/build/CMakeFiles/edit_cache.dir
+/home/zra_lenovo/games/GAMES101Homework/Assignment3/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
